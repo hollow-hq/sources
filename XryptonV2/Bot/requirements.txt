@@ -1,0 +1,17 @@
+discord.py>=2.6.0
+discord-ext-menus
+aiohttp
+requests
+psutil
+Pillow
+tasksio
+jishaku
+wavelink
+setuptools
+httpx
+colorama
+nekosbest
+uwuipy
+msgspec
+primp
+ddgs

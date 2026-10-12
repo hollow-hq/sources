@@ -1,0 +1,133 @@
+{
+    "1479634337660932257": {
+        "enabled": true,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1470774657266483358": {
+        "enabled": false,
+        "locked_targets": [
+            1257713625628413954
+        ],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1490949672057962616": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1505264373424455831": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1514253617182408755": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1462713636878553201": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1462111990984998965": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1515325602964705310": {
+        "enabled": false,
+        "locked_targets": [
+            1510009597019160700,
+            1242433299020906568
+        ],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1327968472658874368": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1512140772504506619": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1462660123649376276": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1507804572670886038": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1505664596839628802": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    },
+    "1423792071348850771": {
+        "enabled": false,
+        "locked_targets": [],
+        "whitelist": [],
+        "block_links": false,
+        "links_whitelist": [],
+        "block_invites": false,
+        "invites_whitelist": []
+    }
+}

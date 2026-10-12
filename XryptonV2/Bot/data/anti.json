@@ -1,0 +1,64 @@
+{
+    "guilds": {
+        "1462713636878553201": {
+            "enabled": true,
+            "modules": {
+                "Ban": {
+                    "module": "Ban",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                },
+                "Kick": {
+                    "module": "Kick",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                },
+                "Bot": {
+                    "module": "Bot",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                },
+                "Roles": {
+                    "module": "Roles",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                },
+                "Vanity": {
+                    "module": "Vanity",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                },
+                "Webhook": {
+                    "module": "Webhook",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                },
+                "Channels": {
+                    "module": "Channels",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                },
+                "Permissions": {
+                    "module": "Permissions",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                },
+                "Massmention": {
+                    "module": "Massmention",
+                    "punishment": "ban",
+                    "threshold": 1,
+                    "toggled": false
+                }
+            },
+            "log_channel": null
+        }
+    }
+}

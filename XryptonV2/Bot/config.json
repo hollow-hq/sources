@@ -1,0 +1,16 @@
+{
+    "bot": {
+        "token": "MTQ0Nzg2OTc4NDkzNzk4ODIwMQ.GOhVLm.e3ptL2ZiGjEqbRrXuu6-4EvKIVnKWYq6nczpeM",
+        "default_prefix": ".",
+        "shard_count": 1,
+        "intents": "all",
+        "openrouter_api": "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",
+        "bot_name": "XRYPTON"
+    },
+    "OWNER_IDS": [
+        1474988168603242590,
+        1489266105372377159,
+        1467913714484121725
+    ],
+    "NO_PREFIX": []
+}

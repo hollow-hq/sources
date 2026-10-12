@@ -1,0 +1,17 @@
+you are a senior developer working at HollowHQ, your job is to make an flask data API named "HAPI3 (Hollow API 3)"
+req means required, opt means optional
+
+# endpoints:
+Category - Utility
+POST /caption (image_url REQ) (caption REQ) = put an caption above an image (white background, ALL CAPS TEXT with ANTON font)
+POST /quote (avatar_url REQ) (quote REQ) = make a quote image with the avatar url being at the left side of the image fading out, right sdie is the quote itself
+Categroy - Youtube
+<--! this section uses the Youtube DATA API V3 located at core/config.py as YT_KEY !-->
+GET /youtube/video (video_url_or_id REQ) = get video information
+GET /youtube/playlist (playlist_url_or_id REQ)
+GET /youtube/channel (channel_id_or_handle REQ) = get channel information
+GET /youtube/channel/videos (channel_id_or_handle REQ) = get videos from a channel
+GET /youtube/search (query) = search on youtube
+Category - Soundcloud
+<--! this section uses pysoundcloud !-->
+GET /soundcloud/song

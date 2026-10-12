@@ -1,0 +1,10 @@
+.venv
+__pycache__
+base/config.py
+Xrypton.db
+backups.db
+.kilo
+
+website/
+XryptonV3.zip
+# check website branch for the website code.

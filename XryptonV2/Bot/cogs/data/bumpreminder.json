@@ -1,0 +1,11 @@
+{
+  "1462713636878553201": {
+    "reminder_channel_id": 1516805941801123882,
+    "thankyou_script": "Thanks for bumping our server, {user}! Keep it up!",
+    "reminder_script": "Hey @everyone! It's time to bump our server using `/bump`! \ud83c\udf89",
+    "autoclean": false,
+    "autolock": false,
+    "next_bump_time": 0,
+    "reminder_sent": true
+  }
+}

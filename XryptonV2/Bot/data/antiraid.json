@@ -1,0 +1,12 @@
+{
+    "1470774657266483358": {
+        "enabled": false,
+        "punishment_type": "timeout",
+        "message_threshold": 5,
+        "cooldown_seconds": 10,
+        "whitelisted_users": [],
+        "whitelisted_roles": [],
+        "stats_raids_prevented": 0,
+        "stats_total_punished": 0
+    }
+}
